@@ -15,22 +15,20 @@ Chaque étape est un comportement attendu. Les étudiants choisissent librement 
 1. Au départ, personne ne tient le bâton.
 2. La 1ere personne dans la liste peut  prendre le bâton libre, (elle le tient).
 3. La personne qui tient le bâton peut parler. Les autres ne peuvent pas.
-4. Quand personne relache le bâton, personne ne peut parler.
+4. Quand personne relache le bâton, il faut que une autre personne le récupère (.
 
 
 ## Phase 2 : Transmission
 
-8. La personne qui tient le bâton peut le donner à quelqu'un d'autre, qui le tient alors.
-9. Une personne qui ne tient pas le bâton ne peut pas le donner.
-10. Se donner le bâton à soi-même n'a pas de sens. Le comportement exact est à décider en binôme.
-11. Une personne qui ne tient pas le bâton ne peut pas le rendre. 
-12. On ne peut pas prendre le bâton s'il est déjà tenu, et celui qui le tenait le garde.
-
+6. La personne qui tient le bâton peut le donner à quelqu'un d'autre, qui le tient alors.
+7. Une personne qui ne tient pas le bâton ne peut pas le donner.
+8. Se donner le bâton à soi-même n'a pas de sens.
+9. on ne peut donner le baton que à une personne (à la fois)
+10. on ne peut pas donner le baton à personne ( vide / nobody)
 
 ## Phase 3 : Le cercle
 
 11. Le bâton appartient à un cercle de participants défini à l'avance. Une personne hors du cercle ne peut pas le prendre.
-12. On ne peut pas donner le bâton à une personne hors du cercle.
 13. La personne qui tient le bâton peut le passer à son voisin, en suivant l'ordre du cercle.
 14. Le dernier du cercle passe le bâton au premier.
 15. Un cercle ne peut pas être vide, et une même personne ne peut pas y figurer deux fois.
